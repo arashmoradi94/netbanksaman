@@ -1,0 +1,83 @@
+@font-face {
+    font-family: vazir;
+    font-style: normal;
+    font-weight: 400;
+    src: url("/moradi2/lib/font/Vazir-Regular.eot");
+    src: url("/moradi2/lib/font/Vazir-Regular.woff") format("woff"),
+         url("/moradi2/lib/font/Vazir-Regular.ttf") format("ttf"),
+         url("/moradi2/lib/font/Vazir-Regular.woff2") format("woff2");
+}
+    body{
+        font-family: vazir;
+        overflow-x: hidden;
+
+}
+
+
+
+
+.nav1 ul li{
+    padding-left: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 0;
+    margin: 0;
+}
+
+.nav1 ul li a{
+    padding-right: 0!important;
+}
+
+.svg{
+    margin-left: 2px;
+}
+
+@media(max-width:1200px){
+    #navbar1{
+      	color:black;
+        font-size: 16px !important;
+        font-weight: 500;
+        display: grid !important;
+      	grid-row-gap:14px;
+    }
+  	.svg{
+      margin-left:15px;
+  }
+
+}
+
+.cimg{
+    margin: auto;
+    min-height: 350px;
+    min-width: 1000px;
+    overflow-x: hidden;
+}
+
+.imgicone img{
+    width: 50px;
+}
+
+.iconname{
+    font-size: 11px;
+    font-weight: 900;
+    margin: 10px;
+}
+
+  /* Defines the width of the carousel and centers it on the page */
+.slick-carousel {
+    margin: 0 auto;
+    width: 1000px;
+  }
+  
+  /* The width of each slide */
+  .slick-slide {
+    width: 350px;
+  }
+  
+  /* Color of the arrows */
+  .slick-next::before, .slick-prev::before {
+    color: blue;
+  }
