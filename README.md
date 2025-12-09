@@ -21,4 +21,4 @@ Through this project, I strengthened my understanding of:
 *   Handling forms and input fields styling.
 
 ## 📬 Contact
-Created by **Arash Moradi** - Feel free to contact me via LinkedIn!
+Created by **Arash Moradi** - Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/arash-moradi-3537b6290/)!
