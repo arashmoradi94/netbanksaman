@@ -1,4 +1,5 @@
 # Saman Bank Netbank - Login Page Clone
+<img width="1917" height="937" alt="Screenshot 2025-12-28 033338" src="https://github.com/user-attachments/assets/746a5ca6-34d3-4587-8b22-b32f8fdd2b74" />
 
 This repository contains a clone of the **Saman Bank Netbank** login page. The project was built for educational purposes to practice and demonstrate mastery of **HTML5** and **CSS3**.
 
